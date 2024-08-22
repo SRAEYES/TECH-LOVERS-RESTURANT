@@ -96,7 +96,7 @@ int main() {
         // Display the main menu
         printf("\t============TECH LOVER'S RESTAURANT============");
         printf("\n             _ _ __ _");
-        printf("\n  Welcome To  | |_ |  ||   Lover's Resturant ");
+        printf("\n  Welcome To  | |_ |  |__|   Lover's Resturant ");
         printf("\n              | |_ |_ |  |");
         printf("\n\n Specially Built For Tech Lovers Like You :)\n\n");
       printf("\n1. login\n");
